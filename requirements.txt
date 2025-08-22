@@ -1,0 +1,14 @@
+ipykernel
+python-dotenv
+langchain
+langchain-pull-md
+langchain_community
+unstructured
+rich
+markdown
+langchain-text-splitters
+langchain_chroma
+openai
+tiktoken
+langchain-openai
+streamlit 
